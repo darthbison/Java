@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArcGis.iml" filepath="$PROJECT_DIR$/.idea/ArcGis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/addlayer/app.iml" filepath="$PROJECT_DIR$/addlayer/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/address/app (1).iml" filepath="$PROJECT_DIR$/address/app (1).iml" />
+    </modules>
+  </component>
+</project>

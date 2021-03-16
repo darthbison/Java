@@ -1,0 +1,9 @@
+messageExample/EmailServiceImpl.class
+messageExample/MyDIApplication.class
+messageExample/EmailServiceInjector.class
+messageExample/MessageServiceInjector.class
+messageExample/SMSServiceImpl.class
+messageExample/Consumer.class
+messageExample/MyMessageDITest.class
+messageExample/SMSServiceInjector.class
+messageExample/MessageService.class

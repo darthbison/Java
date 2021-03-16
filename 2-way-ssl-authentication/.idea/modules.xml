@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2-way-ssl-authentication.iml" filepath="$PROJECT_DIR$/2-way-ssl-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssl-client/ssl-client.iml" filepath="$PROJECT_DIR$/ssl-client/ssl-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssl-server/ssl-server.iml" filepath="$PROJECT_DIR$/ssl-server/ssl-server.iml" />
+    </modules>
+  </component>
+</project>

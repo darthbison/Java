@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93f625f4-e686-494d-84ac-a760e6caa39f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/CreateDataTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/DownloadDataTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/DownloadImportTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/create_data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/CreateDataTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/DownloadDataTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/DownloadImportTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/create_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Parks_and_Open_Space.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Trailheads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Trails.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/._LA_Hub_Datasets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Parks_and_Open_Space.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Trailheads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Trails.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/DataScience/Machine-Learning" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/DataScience/Machine-Learning" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/RandomCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/dotParallel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/encryptdecrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/machinefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/passRandomDraw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/pi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/separateCodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/trapezoid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/trapezoidTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/1800.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/Marvel-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/Marvel-names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/allbut.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/book.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/customer-orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/degrees-of-separation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/fakefriends.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/friends-by-age.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/max-temperatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/min-temperatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/mku.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/most-popular-superhero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-recommendations-als-1m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-recommendations-als.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities-1m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities-cluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies-dataframe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies-nicer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ratings-counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ratings.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/regression.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/spark-linear-regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/spark-sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/tags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/total-spent-by-customer-sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/total-spent-by-customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.genre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.item" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.occupation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u1.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u2.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u3.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u4.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u4.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u5.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u5.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ua.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ua.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ub.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ub.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count-better-sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count-better.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkExamples/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/RTIMULib.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/convertToJSON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsSerial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsdSocket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/humidity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/logs/WeatherLog.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/movement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetryLight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetrySense.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/tempJSON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/temperature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/weatherStation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/1 Playground Basics/PlaygroundBasics.playground/Pages/Calculations.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/1 Playground Basics/PlaygroundBasics.playground/Pages/Calculations.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hello.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hello.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hide the Results Sidebar.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hide the Results Sidebar.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/playground.xcworkspace/xcuserdata/johnson_marcus.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/playground.xcworkspace/xcuserdata/johnson_marcus.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>dest</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="127" />
+    <option name="y" value="98" />
+    <option name="width" value="1260" />
+    <option name="height" value="651" />
+  </component>
+  <component name="ProjectId" id="1fcmtXOU0prVbCYBY52l2FhMY46" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.46551725" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HelloWorld" />
+      <module name="itextExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloWorld" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93f625f4-e686-494d-84ac-a760e6caa39f" name="Default Changelist" comment="" />
+      <created>1532896644850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532896644850</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8 (1)</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

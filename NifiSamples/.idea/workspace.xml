@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3d2ecef-dd9d-4d7d-989d-2f25ed3815a0" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../AWS/.idea/AWS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ActiveMQ/ActiveMQ.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AnalyticsLab/analytics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArcGis/.idea/ArcGis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArcGis/address/app (1).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InjectExamples/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InjectExamples/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InjectExamples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InjectExamples/InjectExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXExamples/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXExamples/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXExamples/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXExamples/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPatterns/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPatterns/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPatterns/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaPatterns/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kafka/.idea/Kafka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NeuralNetwork/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NeuralNetwork/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javafn/hello.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-way-ssl-authentication/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2-way-ssl-authentication/2-way-ssl-authentication.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../2-way-ssl-authentication/2-way-ssl-authentication.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AWS/aws-java-sample/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../AWS/aws-java-sample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/BETXMLGenerator.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/BET_TEMPLATE.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/BET_updated.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/src/BetXMLGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BETXMLGenerator/src/TagGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESExamples/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESExamples/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESExamples/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESExamples/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ESExamples/ESExamples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ESExamples/ESExamples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/HumidityGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/PressureGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/Sensor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/SensorDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/TelemetryGraphs.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/hive/TemperatureGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/AnimatedLineChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/ComboGraph.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/DynamicLineChart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/JacksonTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/JavaFXApplication250.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/LineChartSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/LineChartWithHover.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/MyTimerTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/src/main/java/playcode/Play.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/HumidityGraph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/HumidityGraph$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/HumidityGraph$AddToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/HumidityGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/PressureGraph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/PressureGraph$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/PressureGraph$AddToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/PressureGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/Sensor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/SensorDeserializer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/TelemetryGraphs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/TemperatureGraph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/TemperatureGraph$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/TemperatureGraph$AddToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/hive/TemperatureGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/AnimatedLineChart$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/AnimatedLineChart$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/AnimatedLineChart$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/AnimatedLineChart$AddToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/AnimatedLineChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/ComboGraph$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/ComboGraph$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/ComboGraph$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/ComboGraph$AddToQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/ComboGraph.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/DynamicLineChart$1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/DynamicLineChart$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/DynamicLineChart$Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/DynamicLineChart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/JavaFXApplication250.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/LineChartSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/LineChartWithHover$HoveredThresholdNode$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/LineChartWithHover$HoveredThresholdNode$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/LineChartWithHover$HoveredThresholdNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/LineChartWithHover.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/MyTimerTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EnvirohiveGraph/target/classes/playcode/Play.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/src/main/java/merge/MergeKismet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/src/main/java/merge/MergePhantom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileMerger/src/main/java/merge/MergeTelemetry.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../HUJavaProjectsLab/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IgniteExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IgniteExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/Consumer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/Consumer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/EmailServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/EmailServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/EmailServiceInjector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/EmailServiceInjector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MessageService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MessageService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MessageServiceInjector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MessageServiceInjector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MyDIApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MyDIApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MyMessageDITest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/MyMessageDITest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/SMSServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/SMSServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/SMSServiceInjector.class" beforeDir="false" afterPath="$PROJECT_DIR$/../InjectExamples/target/classes/messageExample/SMSServiceInjector.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaFXExamples/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaFXExamples/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_main_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_android_aarch64_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_android_armv6_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_linux_amd64_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_linux_armv6_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_linux_armv6hf_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_linux_i586_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_macosx_universal_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_solaris_amd64_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_solaris_i586_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_windows_amd64_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/Maven__org_jogamp_jogl_jogl_all_natives_windows_i586_2_3_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/gluegen_2_2_4.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/libraries/graphicslib3D.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/JavaGL.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/lib/gluegen-2.2.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/lib/graphicslib3D.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/bump/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/bump/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/bump/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/Animation.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/Background.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/ErrorChecking.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/Files.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/chapter2/Triangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/geometry/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/geometry/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/geometry/geom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/geometry/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/instancing/Instancing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/instancing/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/instancing/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/matrixstack/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/matrixstack/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/matrixstack/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/multiplemodels/MultipleModels.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/multiplemodels/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/multiplemodels/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/phong/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/phong/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/phong/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/plainredcube/PlainRedCube.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/plainredcube/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/plainredcube/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/random/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/random/HalfSphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/random/shaderFrag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/random/shaderVert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/ImportedModel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/blinnFrag2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/blinnVert1.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/blinnVert2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/shadow/pyr.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/skybox/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/skybox/alien.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/skybox/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/skybox/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/skybox/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/sphere/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/sphere/Sphere.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/sphere/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/sphere/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/sphere/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/floor_color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/tessC.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/tessE.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/tesselation/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/texturepyramid/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/texturepyramid/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/texturepyramid/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/texturepyramid/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/torus/Code.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/torus/Torus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/torus/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/torus/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/src/src/main/java/torus/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/bump/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/bump/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/bump/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/Animation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/Background.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/ErrorChecking.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/Files.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/Point.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/chapter2/Triangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/geometry/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/geometry/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/geometry/geom.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/geometry/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/instancing/Instancing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/instancing/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/instancing/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/matrixstack/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/matrixstack/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/matrixstack/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/multiplemodels/MultipleModels.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/multiplemodels/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/multiplemodels/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/phong/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/phong/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/phong/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/plainredcube/PlainRedCube.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/plainredcube/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/plainredcube/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/random/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/random/HalfSphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/random/shaderFrag" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/random/shaderVert" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/ImportedModel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/ImportedModel$ModelImporter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/ImportedModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/blinnFrag2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/blinnVert1.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/blinnVert2.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/shadow/pyr.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/skybox/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/skybox/alien.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/skybox/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/skybox/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/skybox/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/sphere/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/sphere/Sphere.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/sphere/earth.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/sphere/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/sphere/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/floor_color.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/tessC.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/tessE.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/tesselation/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/texturepyramid/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/texturepyramid/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/texturepyramid/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/texturepyramid/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/torus/Code.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/torus/Torus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/torus/brick1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/torus/frag.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaGL/target/classes/torus/vert.shader" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/JavaPatterns.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/JavaPatterns.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/CommandPatternTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/CommandPatternTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/test/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/test/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/test/MapPerformanceCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/main/test/MapPerformanceCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/Adapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/Adapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/AdapterDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/AdapterDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/Charger.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/Charger.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/GermanyAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/GermanyAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/UKAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/adapter/UKAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/Command.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/Command.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/client/ClientCustomer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/client/ClientCustomer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandCookOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandCookOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandPlaceOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandPlaceOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandServeOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandServeOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandValidateOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/concrete/CommandValidateOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Cook.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Cook.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Invoker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Invoker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Manager.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Manager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/invoker/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/receiver/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/command/receiver/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/DecoratorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/DecoratorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/Flat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/Flat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/FlatDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/FlatDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/FurnitureDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/FurnitureDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/GardenDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/GardenDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/KitchenDecorator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/KitchenDecorator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/SimpleFlat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/decorator/SimpleFlat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/AnimalFacade.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/AnimalFacade.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Dog.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/Dog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/FacadeDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/facade/FacadeDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Country.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Country.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Factory.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Factory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/FactoryDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/FactoryDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/India.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/India.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Japan.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/factory/Japan.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/AddExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/AddExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/Expression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/Expression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/InterpreterClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/InterpreterClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/InterpreterEngine.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/InterpreterEngine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/SubtractExpression.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/interpreter/SubtractExpression.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookIterator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookIterator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookService$BookIteratorImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookService$BookIteratorImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/BookService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/IteratorPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/iterator/IteratorPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/MediatorDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/MediatorDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/OpenPortal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/OpenPortal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/PortalUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/mediator/PortalUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Caretaker.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Caretaker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Memento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Memento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/MementoPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/MementoPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Originator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/memento/Originator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Observer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Observer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/ObserverDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/ObserverDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Subscriber.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Subscriber.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Topic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/observer/Topic.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/FirstGear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/FirstGear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/GearState.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/GearState.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/SecondGear.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/SecondGear.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/StatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/state/StatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/BookingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/BookingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/BusBookingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/BusBookingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/CarBookingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/CarBookingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/Customer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/Customer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/StrategyPatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/StrategyPatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/TrainBookingStrategy.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/strategy/TrainBookingStrategy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/GmailAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/GmailAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/MailAccountTemplate.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/MailAccountTemplate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/TemplatePatternDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/TemplatePatternDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/YahooAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/template/YahooAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Animal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Animal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Luggage.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Luggage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Person.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Person.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Taxi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Taxi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/TaxiBilling.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/TaxiBilling.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Transportable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Transportable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaPatterns/bin/com/opencodez/patterns/visitor/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapMotionExamples/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapMotionExamples/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LeapMotionExamples/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LeapMotionExamples/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Micronaut/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Micronaut/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Micronaut/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Micronaut/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neo/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Neo/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Neo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Neo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neo/target/classes/examples/HelloWorldExample$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Neo/target/classes/examples/HelloWorldExample$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Neo/target/classes/examples/HelloWorldExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Neo/target/classes/examples/HelloWorldExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/.idea/aws.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/.idea/aws.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/FullTextIndex$SearchHit.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/FullTextIndex$SearchHit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/FullTextIndex.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/FullTextIndex.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/Join.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/Join.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/LongestString$LongStringAggregator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/LongestString$LongStringAggregator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/LongestString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/classes/example/LongestString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/JoinTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/JoinTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/LongestStringTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/LongestStringTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/ManualFullTextIndexTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../NeoProcedure/target/test-classes/example/ManualFullTextIndexTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeuralNetwork/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeuralNetwork/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeuralNetwork/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeuralNetwork/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NeuralNetwork/NeuralNetwork.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../NeuralNetwork/NeuralNetwork.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/samples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itextExample/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itextExample/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itextExample/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itextExample/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itextExample/target/classes/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../itextExample/target/classes/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_10.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/jacksonTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/jacksonTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/src/main/java/jackson/JacksonTester.java" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/src/main/java/jackson/JacksonTester.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarDeserializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarDeserializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarSerializer.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarSerializer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarWriteAsString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/CarWriteAsString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/JacksonTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/../jacksonTest/target/classes/jackson/JacksonTester.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/myapplication.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/KafkaDemoApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/domain/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/domain/Developer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/kafka/Consumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/kafka/CustomConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/kafka/CustomProducer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/kafka/Producer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/serializer/DeveloperDeserializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/serializer/DeveloperSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/util/Constants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/java/com/opencodez/util/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/main/resources/logback.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kafka-demo/src/test/java/com/opencodez/kafkademo/KafkaDemoApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../log4test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/CreateDataTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/DownloadDataTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/DownloadImportTutorial-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/.ipynb_checkpoints/create_data-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/CreateDataTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/DownloadDataTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/DownloadImportTutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/create_data.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Parks_and_Open_Space.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Trailheads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/LA_Hub_Datasets/Trails.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/._LA_Hub_Datasets" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Parks_and_Open_Space.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Trailheads.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/ArcGIS/data/__MACOSX/LA_Hub_Datasets/._Trails.geojson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/DataScience/Machine-Learning" beforeDir="false" afterPath="$PROJECT_DIR$/../../Python/DataScience/Machine-Learning" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/RandomCalculator.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/demo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/dotParallel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/encryptdecrypt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/machinefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/passRandomDraw.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/pi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/separateCodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/time.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/trapezoid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/MPI/trapezoidTwo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/1800.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/Marvel-graph.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/Marvel-names.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/README" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/allbut.pl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/book.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/0aa1f212-b7b1-4179-9d6b-176c0aa6871a/rdd-28/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/._partitioner.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00000.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00001.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00002.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00003.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00004.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00005.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00006.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/.part-00007.crc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/_partitioner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00000" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00002" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00003" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00004" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00005" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00006" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/checkpoint/1ebf0875-a0e6-4790-8a7d-a654ceec6a14/rdd-28/part-00007" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/customer-orders.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/degrees-of-separation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/fakefriends.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/friends-by-age.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/links.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/max-temperatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/min-temperatures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/mku.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/most-popular-superhero.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-recommendations-als-1m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-recommendations-als.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities-1m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities-cluster.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movie-similarities.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/movies.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies-dataframe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies-nicer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/popular-movies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ratings-counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ratings.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/regression.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/spark-linear-regression.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/spark-sql.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/tags.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/total-spent-by-customer-sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/total-spent-by-customer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.data" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.genre" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.item" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.occupation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u.user" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u1.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u1.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u2.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u2.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u3.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u3.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u4.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u4.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u5.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/u5.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ua.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ua.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ub.base" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/ub.test" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count-better-sorted.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count-better.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkCourse/FrankKanes/word-count.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/SparkExamples/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/RTIMULib.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/convertToJSON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsSerial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/gpsdSocket.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/humidity.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/logs/WeatherLog.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/movement.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetryLight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/telemetrySense.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/tempJSON.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/temperature.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Python/telemetry/weatherStation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/1 Playground Basics/PlaygroundBasics.playground/Pages/Calculations.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/1 Playground Basics/PlaygroundBasics.playground/Pages/Calculations.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hello.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hello.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hide the Results Sidebar.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Hide the Results Sidebar.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/Contents.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/Pages/Messages from Programmers.xcplaygroundpage/Contents.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/playground.xcworkspace/xcuserdata/johnson_marcus.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/../../Swift/SwiftBook/4 Hello World/HelloWorld.playground/playground.xcworkspace/xcuserdata/johnson_marcus.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>processor</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="width" value="844" />
+    <option name="height" value="1024" />
+  </component>
+  <component name="ProjectId" id="1feeBNWNA0TVxSCUa0aqZLedqIl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3d2ecef-dd9d-4d7d-989d-2f25ed3815a0" name="Default" comment="" />
+      <created>1518493502925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1518493502925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

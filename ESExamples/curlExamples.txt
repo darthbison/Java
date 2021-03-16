@@ -1,0 +1,27 @@
+curl 'http://localhost:9200/?pretty'
+curl -u elastic:Xy7ba2A2R79X5iwPzfcw "localhost:9200/_nodes/settings?pretty=true"
+curl -XPOST 'http://localhost:9200/_shutdown'
+curl -XGET 'http://localhost:9200/_count?pretty' -d -H 'Content-Type: application/json' -d'{    "query": {        "match_all": {}    }}'
+curl -XGET 'localhost:9200/_count?pretty' -d '
+"http://localhost:9200/_search"
+curl -XPUT 'http://localhost:9200/blogs' -H 'Content-Type: application/json' -d '{"settings" : {"number_of_shards" : 3,"number_of_replicas" : 1}}'
+curl -XGET 'localhost:9200/_cluster/health?pretty'
+curl -XPUT 'localhost:9200/website/blog/1/_create' -H 'Content-Type: application/json' -d {  "title": "My first blog entry",  "text":  "Just trying this out..."}
+curl -XGET 'localhost:9200/website/blog/1?pretty'
+curl -XPUT 'localhost:9200/website/blog/1?version=1' -H 'Content-Type: application/json' -d {  "title": "My first blog entry",  "text":  "Starting to get the hang of this..."}
+curl -XPUT 'localhost:9200/website/blog/2?version=5&version_type=external' -H 'Content-Type: application/json' -d {  "title": "My first external blog entry",  "text":  "Starting to get the hang of this..."}
+curl -XPUT 'localhost:9200/website/blog/2?version=10&version_type=external' -H 'Content-Type: application/json' -d {  "title": "My first external blog entry",  "text":  "This is a piece of cake..."}
+curl -XGET 'localhost:9200/_mget?pretty' -H 'Content-Type: application/json' -d {   "docs" : [      {         "_index" : "website",         "_type" :  "blog",         "_id" :    2      },      {         "_index" : "website",         "_type" :  "pageviews",         "_id" :    1,         "_source": "views"      }   ]}
+curl -u elastic:Xy7ba2A2R79X5iwPzfcw -H 'Content-Type: application/x-ndjson' -XPOST 'localhost:9200/bank/account/_bulk?pretty' --data-binary @"/Users/johnson_marcus/Downloads/shakespeare_6.0.json"
+curl -XPUT localhost:9200/_template/packets -H 'Content-Type: application/json' -d '{  "template": "packets-*",  "mappings": {    "pcap_file": {      "dynamic": "false",      "properties": {        "timestamp": {          "type": "date"        },        "layers": {          "properties": {            "frame": {              "properties": {                "frame_frame_len": {                  "type": "long"                },                "frame_frame_protocols": {                  "type": "keyword"                }              }            },            "ip": {              "properties": {                "ip_ip_src": {                  "type": "ip"                },                "ip_ip_dst": {                  "type": "ip"                }              }            },            "udp": {              "properties": {                "udp_udp_srcport": {                  "type": "integer"                },                "udp_udp_dstport": {                  "type": "integer"                }              }            }          }        }      }    }  }}'
+curl -XPUT localhost:9200/_ingest/pipeline/packets -H 'Content-Type: application/json' -d '{  "description": "Import Tshark Elasticsearch output",  "processors" : [    {      "date_index_name" : {        "field" : "timestamp",        "index_name_prefix" : "packets-webserver01-",        "date_formats": [ "UNIX_MS" ],         "date_rounding" : "d"      }    }  ]}'
+curl -s -H "Content-Type: application/x-ndjson" -XPOST "localhost:9200/_bulk?pipeline=packets" --data-binary "@packets.json"
+
+----------ELK Tutorial-----------------------
+curl -XPUT 'localhost:9200/customer/US/1' -H 'Content-Type: application/json' -d '{ "ID" : 101, "FName" : "James", "LName" : "Butt", "Email" : "jbutt@gmail.com", "City" : "New Orleans", "Type" : "VIP"}'
+curl -XPUT 'localhost:9200/customer/US/1' -H 'Content-Type: application/json' -d '{ "ID" : 101, "FName" : "James", "LName" : "Johnson", "Email" : "jjohnson@gmail.com", "City" : "New Orleans", "Type" : "VIP"}'
+curl -XPUT 'localhost:9200/customer/' -H 'Content-Type: application/json' -d '{ "mappings":{ "US":{ "properties":{ "ID":{ "type": "long" }, "FName" : { "type" : "text" }, "LName" : { "type" : "text" }, "Email" : { "type" : "text" }, "City" : { "type" : "text" }, "Type" : { "type" : "text" } }   } }}'
+curl -XDELETE 'localhost:9200/customer/US/1'
+curl -XPOST 'localhost:9200/customer/US/_search'
+curl -XPOST 'localhost:9200/customer/US/_search?pretty' -H 'Content-Type: application/json' -d '{ "query": { "match": { "FName": "Gwen" } }}'
+curl -XPOST 'localhost:9200/customer/US/_search?pretty' -H 'Content-Type: application/json' -d '{ "size": 0, "aggs" : { "Cust_Types" : { "terms" : { "field" : "Type.keyword" } } }}'

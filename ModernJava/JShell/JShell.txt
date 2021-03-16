@@ -1,0 +1,36 @@
+/reset
+/list
+/history
+
+# - represents the order in the list command
+/# -- runback the command
+
+/drop #
+
+/set feeedback
+
+double cube(double number) {
+  return number ^ 3 }
+  
+c = cube(5)
+
+/imports
+
+class Course {}
+/edit Course
+
+For api completions
+java.lang....press tab
+
+/save <file.jsh>
+/open <file.jsh>
+/vars
+/methods
+
+/set start <-retain> <file.jsh> DEFAULT <PRINTING>
+
+/env -class-path <jar file>
+
+
+
+
